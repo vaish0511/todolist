@@ -1,0 +1,10 @@
+electrical machines 
+power system
+digital electronics 
+data structures and algorithms 
+circuit theory 
+micro processors and microcontrollers
+
+mpmc lab;(2exp) [5/02/21]
+ct lab;(5 exp)[22/02/21]
+digital electronics lab;(exp 3)[8/02/21]
